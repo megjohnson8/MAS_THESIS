@@ -1,0 +1,202 @@
+Genre,Genre_grouped,Count,Default_fixed
+unknown,Default,5597,unknown
+musical,Default,464,musical
+film noir,Default,339,mystery
+social,Default,79,comedy
+short,Default,30,unknown
+ ,Default,28,unknown
+tokusatsu,Default,24,unknown
+sports,Default,23,drama
+short subject,Default,17,unknown
+folklore,Default,16,fantasy
+docudrama,Default,14,drama
+kaiju,Default,13,unknown
+slapstick,Default,12,comedy
+propaganda,Default,12,unknown
+slasher,Default,12,thriller
+swashbuckler,Default,10,unknown
+devotional,Default,10,unknown
+epic,Default,9,drama
+wuxia,Default,9,unknown
+parody,Default,8,comedy
+sexploitation,Default,8,adult
+exploitation,Default,7,adult
+anthology,Default,7,drama
+satire,Default,7,comedy
+short film,Default,7,unknown
+political,Default,5,unknown
+shakespearean,Default,5,drama
+operetta,Default,5,musical
+biker film,Default,5,action
+pink,Default,4,adult
+dance,Default,4,romance
+yakuza,Default,4,unknown
+slasher film,Default,4,thriller
+gangster,Default,4,action
+neo-noir,Default,4,mystery
+sword,Default,4,unknown
+experimental,Default,4,unknown
+costume,Default,4,unknown
+educational,Default,3,unknown
+music,Default,3,musical
+-,Default,3,unknown
+political satire,Default,3,comedy
+socio-fantasy,Default,3,fantasy
+gangster film,Default,2,action
+kaiju eiga,Default,2,unknown
+super hit movie,Default,2,unknown
+fairy tale,Default,2,fantasy
+charlie chan,Default,2,unknown
+yash raj films,Default,2,unknown
+propaganda short,Default,2,unknown
+jidaigeki,Default,2,unknown
+avant-garde,Default,2,unknown
+socio-political,Default,2,unknown
+imdb,Default,2,unknown
+period,Default,2,history
+remake,Default,2,unknown
+teen,Default,2,drama
+social satire,Default,2,comedy
+p.o.w.,Default,2,action
+blaxploitation,Default,2,adult
+chambara,Default,2,unknown
+biker,Default,2,action
+stoner film,Default,1,unknown
+"srikanth, bhavana",Default,1,unknown
+"rajiv kanakala, raja, saloni aswani, siva balaji",Default,1,unknown
+"allari naresh, madhu sharma, shashank, bramhanandam, ravi babu",Default,1,unknown
+"balakrishna nandamuri, sneha, tabu",Default,1,unknown
+yakuza film,Default,1,unknown
+nadeem-shravan,Default,1,unknown
+"dance, idol, magical girl, musical",Default,1,unknown
+rajendra prasad,Default,1,unknown
+allari naresh,Default,1,unknown
+"ravi teja, jyothika",Default,1,unknown
+concert,Default,1,unknown
+national film board docudrama,Default,1,unknown
+anthology film,Default,1,unknown
+sports/social,Default,1,unknown
+period costume,Default,1,unknown
+aviation,Default,1,unknown
+lee sin-je,Default,1,unknown
+literary adaptation,Default,1,unknown
+slahser,Default,1,unknown
+duology,Default,1,unknown
+sport,Default,1,unknown
+sport film,Default,1,unknown
+perodic,Default,1,unknown
+"post-apocalyptic, zombie",Default,1,unknown
+stylish,Default,1,unknown
+"siddharth, genelia d'souza, prakash raj, jayasudha",Default,1,unknown
+race film,Default,1,unknown
+"nagarjuna, shriya saran, nayantara, poonam bajwa",Default,1,unknown
+splatter,Default,1,unknown
+mob,Default,1,unknown
+politics ,Default,1,unknown
+travel,Default,1,unknown
+coming-of-age,Default,1,unknown
+"school, sports",Default,1,unknown
+"pawan kalyan, asin, sandhya",Default,1,unknown
+modern day passion play,Default,1,unknown
+"ken'ichi maysuyama, koyuki",Default,1,unknown
+"ajay, kota srinivasa rao",Default,1,unknown
+dark slasher,Default,1,unknown
+"pawan kalyan, reema sen, meera chopra, mukesh rishi",Default,1,unknown
+"siddharth narayan, charmme, sada",Default,1,unknown
+musical b,Default,1,unknown
+huangmei opera,Default,1,unknown
+sf,Default,1,unknown
+"priyadarshini ram, viswendar reddy, radhika joshi",Default,1,unknown
+vampire film,Default,1,unknown
+silent hills studio,Default,1,unknown
+"dev, nusrat jahan",Default,1,unknown
+punk/avant-garde,Default,1,unknown
+"parody, sports",Default,1,unknown
+silent sports,Default,1,unknown
+adapted from the play by alexandre goyette,Default,1,unknown
+mocatsu,Default,1,unknown
+epic film,Default,1,unknown
+keiji,Default,1,unknown
+coming of age,Default,1,unknown
+period film,Default,1,history
+"mohit ahlawat, priyanka kothari",Default,1,unknown
+panorama studios,Default,1,unknown
+yeh saali zindagi,Default,1,unknown
+"bharath, arya, pooja, padmapriya",Default,1,unknown
+patriotic,Default,1,unknown
+"srikanth, rajendra prasad, sindhu tolani",Default,1,unknown
+"dance, parody",Default,1,comedy
+"ram, ileana d'cruz",Default,1,unknown
+"srikanth, venu madhav, ali",Default,1,unknown
+"mohanlal, mammootty, nedumudi venu, bharath gopi",Default,1,unknown
+"chiranjeevi, trisha krishnan, khushboo",Default,1,unknown
+"ravi teja, ileana d'cruz",Default,1,unknown
+"raja, bhoomika chawla, s. p. balu",Default,1,unknown
+triad,Default,1,unknown
+imax,Default,1,unknown
+critically acclaimed,Default,1,unknown
+chakravarthy musical hit,Default,1,unknown
+rock musical,Default,1,musical
+chanchal chowdhury masuma rahman nabila partha barua,Default,1,unknown
+"mob, neo-noir",Default,1,mystery
+independent,Default,1,unknown
+"adaptation of a play by michel marc bouchard,",Default,1,unknown
+"raghava lawrence, prabhu deva, raja, charmme, kamalini mukherjee",Default,1,unknown
+"tapas paul, debashree roy",Default,1,unknown
+"yash dasgupta, mimi chakraborty",Default,1,unknown
+outlaw biker film,Default,1,unknown
+"d. ramanaidu, kalyani",Default,1,unknown
+revolutionary patriotic,Default,1,unknown
+"jr. ntr, sameera reddy, sonu sood",Default,1,unknown
+auli'i cravalho dwayne johnson,Default,1,unknown
+compilation,Default,1,unknown
+[144],Default,1,unknown
+chanbara,Default,1,unknown
+british-german co-production,Default,1,unknown
+viacom 18 motion pictures,Default,1,unknown
+"biju menon, krishnashankar, samskruti shenoy",Default,1,unknown
+tokusatsu v-cinema,Default,1,unknown
+american football,Default,1,unknown
+spoof,Default,1,unknown
+"jr. ntr, charmy kaur, ileana d'cruz",Default,1,unknown
+"prabhas, trisha krishnan, charmme",Default,1,unknown
+kalyan ram,Default,1,unknown
+"olga khokhlova, sergey krapiventsev, oleg sukachenko",Default,1,unknown
+"epic, patriotism",Default,1,unknown
+"suhasini, sharwanand, shriya reddy",Default,1,unknown
+politics,Default,1,unknown
+cult film,Default,1,unknown
+gore film,Default,1,unknown
+16 mm film,Default,1,unknown
+bholenath movies & cinekorn entertainment,Default,1,unknown
+race,Default,1,unknown
+"sumanth, charmme",Default,1,unknown
+ usa ,Default,1,unknown
+jidai-geki,Default,1,unknown
+"ravi teja, anushka shetty",Default,1,unknown
+"period, revenge",Default,1,unknown
+"dance, musical, idol",Default,1,unknown
+yuen lai-kei,Default,1,unknown
+found footage,Default,1,unknown
+bbc films,Default,1,unknown
+reality,Default,1,unknown
+"sunil, arti agarwal",Default,1,unknown
+investigative,Default,1,unknown
+reese witherspoon scarlett johansson,Default,1,unknown
+"sivaji, krishna bhagavaan, ali",Default,1,unknown
+patriotism,Default,1,unknown
+colour yellow productions & eros international,Default,1,unknown
+k9 films,Default,1,unknown
+movies by the mob & knkspl,Default,1,unknown
+experimental short,Default,1,unknown
+counterculture,Default,1,unknown
+yogesh dattatraya gosavi's directorial debut. [9],Default,1,unknown
+social ,Default,1,unknown
+"sumanth, kamalinee mukherjee",Default,1,unknown
+"mahesh babu, ileana d'cruz, prakash raj",Default,1,unknown
+period piece,Default,1,history
+road movie,Default,1,unknown
+survival,Default,1,unknown
+space opera,Default,1,unknown
+"dharma productions, red chillies entertainment & b.r films",Default,1,unknown
+youth,Default,1,unknown
